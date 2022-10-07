@@ -14,7 +14,7 @@ import modelo.Estudiante;
 
 /**
  *
- * @author Carlos Alfonso
+ * @author James
  */
 public class sr_estudiante extends HttpServlet {
 

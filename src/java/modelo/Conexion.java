@@ -10,7 +10,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author Carlos Alfonso
+ * @author james
  */
 public class Conexion {
     

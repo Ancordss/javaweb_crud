@@ -6,7 +6,7 @@ package modelo;
 
 /**
  *
- * @author Carlos Alfonso
+ * @author james
  */
 public class Persona {
     
